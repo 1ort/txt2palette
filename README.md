@@ -27,6 +27,7 @@ After launching the interface, select txt2palette from the list of scripts on th
 
 ## Improvement Ideas:
 Add Color Harmony Color Correction.
+Somehow save hex codes of the palettes
 
 ## Credits
 The most important part of the script is based on the sources of Pylette color extractor: https://github.com/qTipTip/Pylette
